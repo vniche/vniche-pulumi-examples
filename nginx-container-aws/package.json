@@ -1,0 +1,14 @@
+{
+    "name": "nginx-container-aws",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^18"
+    },
+    "dependencies": {
+        "@pulumi/aws": "^6.0.0",
+        "@pulumi/awsx": "^2.0.2",
+        "@pulumi/pulumi": "^3.0.0",
+        "@vniche/aws-container-pulumi": "^0.0.1",
+        "@vniche/aws-vpc-pulumi": "^0.0.10"
+    }
+}

@@ -1,0 +1,3 @@
+name: nginx-container-aws
+runtime: nodejs
+description: An example AWS TypeScript Pulumi program to manage NGinx as ECS service on AWS
